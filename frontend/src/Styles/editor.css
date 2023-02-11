@@ -1,0 +1,39 @@
+@import "remirror/styles/all.css";
+
+.remirror-button-active {
+    background-color: #ffa73b !important;
+}
+
+.remirror-button:not([aria-disabled='true']):hover {
+    background-color: #ffa73b !important;
+}
+
+.remirror-editor.ProseMirror {
+    max-height: 100px;
+}
+
+.remirror-editor-wrapper {
+    order:1 
+}
+
+.remirror-theme {
+    display: flex;
+    flex-direction: column
+}
+
+.remirror-theme .ProseMirror:active, .ProseMirror:hover, .remirror-theme .ProseMirror:focus {
+    box-shadow: #ffa73b 0px 0px 0px 0.1em;
+}
+
+.remirror-tooltip {
+    z-index: 99999;
+}
+
+.remirror-toolbar::-webkit-scrollbar {
+    display: none;
+}
+
+.remirror-role {
+    margin-right: 3px;
+    border-width: 0;
+}

@@ -1,0 +1,16 @@
+@media only screen and (max-width: 800px) {
+    table {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        }
+    tbody {
+        height: 100%;
+        display: flex !important;
+        flex-direction: row !important;
+    }
+    tr {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}

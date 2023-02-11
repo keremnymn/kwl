@@ -1,0 +1,29 @@
+{
+    "confirmMail": {
+        "subject": "Confirm Your Email",
+        "buttonKey": "Confirm Account",
+        "message": "Welcome to kwl.app! Please confirm your email to complete your membership.",
+        "icon": ["**-mainIcon-**", "https://img.icons8.com/clouds/100/000000/handshake.png"],
+        "title": ["**-title-**", "Welcome to kwl.app!"],
+        "mainText": ["**-mainText-**", "We're excited to have you get started. First, you need to confirm your account. Just press the button below."],
+        "hiddenText": ["**-hiddenText-**", "We're thrilled to have you here! Get ready to dive into your new account."]
+    },
+    "resetPassword": {
+        "subject": "Reset Your Password",
+        "buttonKey": "Reset Password",
+        "message": "You can click the button in this email to reset your password.",
+        "icon": ["**-mainIcon-**", "https://img.icons8.com/clouds/100/000000/recurring-appointment.png"],
+        "title": ["**-title-**", "Reset Your Password"],
+        "mainText": ["**-mainText-**", "To reset your password, you can click the button below. If you didn't send this request, please disregard this email."],
+        "hiddenText": ["**-hiddenText-**", "You've sent us a password reset request. Please click the button in this email to reset your password."]
+    },
+    "ticketReminder": {
+        "subject": "Complete the Last Step!",
+        "buttonKey": "Go to kwl.app",
+        "message": "Please complete your KWL ticket.",
+        "icon": ["**-mainIcon-**","https://img.icons8.com/clouds/100/000000/344/timer.png"],
+        "title": ["**-title-**", "Complete The Last Step"],
+        "mainText": ["**-mainText-**","You set a reminder for a KWL ticket. Would you like to complete the last step for this ticket?"],
+        "hiddenText": ["**-hiddenText-**", "You set a reminder for a KWL ticket on kwl.app Would you like to complete the ticket?"]
+    }
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Create",
+        "description": "Create your KWL ticket in a few minutes.",
+        "image":
+          "https://kwl-app.s3.eu-central-1.amazonaws.com/page-illustrations/Blogging-bro.svg",
+        "marginTop": 6
+      },
+      {
+        "title": "Invite",
+        "description":
+          "Invite participants to respond to the questions simultaneously.",
+        "image":
+          "https://kwl-app.s3.eu-central-1.amazonaws.com/page-illustrations/Mobile-bro.svg",
+        "marginTop": 0
+      },
+      {
+        "title": "Analyze <i>(Soon)</i>",
+        "description": "Get automatic reports.",
+        "image":
+          "https://kwl-app.s3.eu-central-1.amazonaws.com/page-illustrations/Analyze-bro.svg",
+        "marginTop": 6,
+        "opacity": "70%"
+      }
+]

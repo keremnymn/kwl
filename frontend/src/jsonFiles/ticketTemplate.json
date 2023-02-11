@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Know",
+      "formValue": "knowQuestion",
+      "question": "Write a question for participants to answer for \"Know\" step",
+      "questionPlaceholder": "E.g. What do you know about this topic?"
+    },
+    {
+      "name": "WanttoLearn",
+      "formValue": "wantToLearnQuestion",
+      "question":
+        "Write a question for participants to answer for \"Want to Learn\" step",
+      "questionPlaceholder": "E.g. What do you want to learn about this topic?"
+    },
+    {
+      "name": "Learned",
+      "formValue": "learnedQuestion",
+      "question":
+        "Write a question for participants to answer for \"Learned\" step",
+      "questionPlaceholder": "E.g. What did you learn about this topic?"
+    }
+]

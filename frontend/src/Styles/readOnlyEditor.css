@@ -1,0 +1,12 @@
+.codex-editor__redactor {
+    padding-bottom: 0 !important;
+}
+.ce-block__content {
+    font-size: 1.1rem;
+    max-width: 70% !important;
+}
+@media only screen and (max-width: 800px) {
+    .ce-block__content {
+        max-width: 100% !important;
+    }
+}
